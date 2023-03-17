@@ -1,0 +1,9 @@
+{
+  "defaultSettings": {
+    "words": {
+      "menu": ["the","and","a","an","in","is","it","of","to","you","that","for","with","was","he","she","his","her","they","we","but","at","on","be","this","have","from","not","by","or","one","had","all","him","so","has","there","if","more","when","up","out","do","your","what","about","who","will","can","some","them","like","then","into","could","its","than","these","two","may","see","time","no","way","been","make","long","too","how","only","my","men","other","new","any","now","know","just","our","man","most","even","me","here","why","take","should","thing","come","think","over","also","back","after","use","years","want","around","many","those","where","right","old","different","ask","end","help","well","must","off","always","try","us","very","last","own","three","big","high","next","each","much","line","part","put","set","mean","hand","land","air","home","page","play","small","point","form","meat","fact","need","keep","bring","sky","house","often","spell","away","run","went","word","few","boy","life","eye","thought","city","tree","hard","sure","add","less","call","might","again","while","sun","write","live","down","side","every","same","father","number","name","between","something","mother","start","look","turn","seem","follow","light","find","plant","feel","far","group","case","begin","country","large","sound","people","differ","show","kind","head","place","work","through","animal","move"],
+      "separator": "-"
+    },
+    "time": "60000"
+  }
+}
